@@ -7,7 +7,7 @@ My opinion on holo-omics is that we need to do more fundamental research and bas
 
 🚀 My current flagship project is the [Assemblycomparator2](https://github.com/cmkobel/assemblycomparator2) genomes-to-report pipeline which has just been published on bioconda.
 
-I'm looking for a postdoctoral fellowship position from northern spring 2025. Let me know if you have a lead.
+I'm looking for a postdoctoral fellowship position in Copenhagen from spring 2025. Let me know if you have a lead.
 
 ```
                                    🦾   🔬   💻   🔣   💾   🚲   🧬

@@ -9,6 +9,8 @@ My opinion on holo-omics is that we need to do more fundamental research and bas
 
 I'm looking for a postdoctoral fellowship position in Copenhagen or online from spring 2025. Let me know if you have a lead.
 
+Check out my personal webpage at https://cmkobel.github.io/ for more info. Have a nice day!
+
 ```
                                    🦾   🔬   💻   🔣   💾   🚲   🧬
 ```

@@ -7,8 +7,6 @@ My opinion on holo-omics is that we need to do more fundamental research and bas
 
 🚀 My current flagship project is the [CompareM2](https://comparem2.readthedocs.io/) genomes-to-report pipeline which has just been published on bioconda.
 
-I'm looking for a postdoctoral fellowship position in Copenhagen or online from spring 2025. Let me know if you have a lead.
-
 Check out my personal webpage at https://cmkobel.github.io/ for more info. Have a nice day!
 
 ```
